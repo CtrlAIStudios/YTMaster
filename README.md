@@ -1,5 +1,7 @@
 # YTMaster - Curadoria e Gerenciamento de Playlists 🎵
 
+[📥 **BAIXAR O YTMaster (Versão Mais Recente)**](https://github.com/JordanCTRLAI/YTMaster/releases/latest)
+
 Bem-vindo ao **YTMaster**, um aplicativo desktop desenvolvido para ajudar usuários a organizarem suas descobertas musicais de forma inteligente e automatizada.
 
 ## 📌 O que o aplicativo faz?
