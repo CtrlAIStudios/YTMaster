@@ -7,8 +7,8 @@ Ao instalar, copiar ou utilizar o YTMaster ("Software"), você concorda em ficar
 1. Concessão de Licença
 A Ctrl+AI Studios concede a você uma licença revogável, não exclusiva, intransferível e limitada para baixar, instalar e usar o Software estritamente de acordo com os termos deste Contrato.
 
-2. Conformidade com as Regras de Terceiros
-O Software interage com a plataforma YouTube. O usuário é o ÚNICO responsável por garantir que o uso do Software esteja em total conformidade com as Diretrizes da Comunidade do YouTube, os Termos de Serviço do YouTube e a Política de Desenvolvedores do Google. É terminantemente proibido o uso do Software para gerar spam, manipulação de métricas ou violação de direitos autorais.
+2. Conformidade com as Regras de Terceiros e Serviços da API do YouTube
+O Software interage com a plataforma YouTube através de seus Serviços de API. Ao utilizar o YTMaster, você reconhece e concorda expressamente em estar vinculado aos Termos de Serviço do YouTube (https://www.youtube.com/t/terms) e à Política de Privacidade do Google (https://policies.google.com/privacy).
 
 3. Isenção de Garantias ("As-Is")
 O Software é fornecido "COMO ESTÁ" (As-Is), sem garantia de qualquer tipo, expressa ou implícita. A Ctrl+AI Studios não garante que o Software será ininterrupto, livre de erros ou totalmente seguro.
