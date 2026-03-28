@@ -14,6 +14,15 @@
 </p>
 
 <p align="center">
+  <a href="https://pay.kiwify.com.br/EY0k66X">
+    <img src="https://img.shields.io/badge/⭐_ASSINE_O_PRO-MENSAL-2D3748?style=for-the-badge&logo=credit-card" alt="Assine o PRO - Mensal">
+  </a>
+  <a href="https://pay.kiwify.com.br/RqSpjRo">
+    <img src="https://img.shields.io/badge/⭐_ASSINE_O_PRO-ANUAL-2D3748?style=for-the-badge&logo=credit-card" alt="Assine o PRO - Anual">
+  </a>
+</p>
+
+<p align="center">
   🇧🇷 Transforme horas de vídeo em playlists oficiais e organizadas na sua conta do YouTube em questão de minutos.<br>
   🇺🇸 <i>Transform hours of video into official and organized playlists on your YouTube account in minutes.</i>
 </p>
