@@ -110,4 +110,4 @@
 </p>
 <p align="center">✉️ <b>Email:</b> <a href="mailto:ctrlaistudios@gmail.com">ctrlaistudios@gmail.com</a></p>
 <br>
-<p align="center"><i>YTMaster © 2026 CTRL+AI Studios. Todos os direitos reservados / All rights reserved.</i></p>
+<p align="center"><i>YTMaster © 2026 CTRL+AI Studios. Todos os direitos reservados / All rights reserved.</i></p> 
